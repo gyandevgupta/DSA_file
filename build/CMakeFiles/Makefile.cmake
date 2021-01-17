@@ -14,9 +14,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
   "test_pub_sub/catkin_generated/package.cmake"
+  "week1_19010051_190110043/catkin_generated/package.cmake"
   "/home/gd/sc635ws/src/CMakeLists.txt"
   "/home/gd/sc635ws/src/test_pub_sub/CMakeLists.txt"
   "/home/gd/sc635ws/src/test_pub_sub/package.xml"
+  "/home/gd/sc635ws/src/week1_19010051_190110043/CMakeLists.txt"
+  "/home/gd/sc635ws/src/week1_19010051_190110043/package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/../package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/all.cmake"
   "/opt/ros/kinetic/share/catkin/cmake/assert.cmake"
@@ -145,6 +148,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "test_pub_sub/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "week1_19010051_190110043/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

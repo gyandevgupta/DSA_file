@@ -36,3 +36,10 @@
 /home/gd/sc635ws/build/test_pub_sub/CMakeFiles/install/local.dir
 /home/gd/sc635ws/build/test_pub_sub/CMakeFiles/install/strip.dir
 /home/gd/sc635ws/build/test_pub_sub/CMakeFiles/test.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/list_install_components.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/install.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/rebuild_cache.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/install/strip.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/install/local.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/test.dir
+/home/gd/sc635ws/build/week1_19010051_190110043/CMakeFiles/edit_cache.dir

@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/gd/sc635ws/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/gd/sc635ws/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/gd/sc635ws/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/gd/sc635ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/gd/sc635ws/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/gd/sc635ws/src:$ROS_PACKAGE_PATH"

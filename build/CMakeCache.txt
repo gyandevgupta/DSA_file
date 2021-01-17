@@ -314,6 +314,12 @@ test_pub_sub_BINARY_DIR:STATIC=/home/gd/sc635ws/build/test_pub_sub
 //Value Computed by CMake
 test_pub_sub_SOURCE_DIR:STATIC=/home/gd/sc635ws/src/test_pub_sub
 
+//Value Computed by CMake
+week1_19010051_190110043_BINARY_DIR:STATIC=/home/gd/sc635ws/build/week1_19010051_190110043
+
+//Value Computed by CMake
+week1_19010051_190110043_SOURCE_DIR:STATIC=/home/gd/sc635ws/src/week1_19010051_190110043
+
 
 ########################
 # INTERNAL cache entries
@@ -416,7 +422,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
